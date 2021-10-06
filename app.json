@@ -1,7 +1,7 @@
 {
-    "name": "XRay-Web",
-    "description": "Deploy Xray-Web on Heroku.",
-    "keywords": ["XRay-Web"],
+    "name": "XRayWeb",
+    "description": "Deploy XrayWeb on Heroku.",
+    "keywords": ["XRayWeb"],
     "env": {
         "UUID": {
             "description": "XRay UUID",
@@ -20,7 +20,7 @@
             "value": "https://raw.githubusercontent.com/wanjiji/heroku-xray-web/main/etc/xray.json"
         }
     },
-    "website": "https://github.com/wanjiji/heroku-xray-web",
-    "repository": "https://github.com/wanjiji/heroku-xray-web",
+    "website": "https://github.com/hanlray/herokuxrayweb",
+    "repository": "https://github.com/hanlray/herokuxrayweb",
     "stack": "container"
 }
