@@ -9,18 +9,18 @@
         },
         "WebPage": {
             "description": "自定义Web页面",
-            "value": "https://raw.githubusercontent.com/wanjiji/heroku-xray-web/main/archive/web.zip"
+            "value": "https://raw.githubusercontent.com/6shell/herokuxrayweb/main/archive/web.zip"
         },
         "CaddyConfig": {
             "description": "自定义Caddy配置文件",
-            "value": "https://raw.githubusercontent.com/wanjiji/heroku-xray-web/main/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/6shell/herokuxrayweb/main/etc/Caddyfile"
         },
         "XRayConfig": {
             "description": "自定义XRay配置文件",
-            "value": "https://raw.githubusercontent.com/wanjiji/heroku-xray-web/main/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/6shell/herokuxrayweb/main/etc/xray.json"
         }
     },
-    "website": "https://github.com/hanlray/herokuxrayweb",
-    "repository": "https://github.com/hanlray/herokuxrayweb",
+    "website": "https://github.com/6shell/herokuxrayweb",
+    "repository": "https://github.com/6shell/herokuxrayweb",
     "stack": "container"
 }
